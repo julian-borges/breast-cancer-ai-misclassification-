@@ -26,7 +26,7 @@ breast-cancer-ai-misclassification/
 ├── .gitignore
 │
 ├── data/
-│   ├── raw/                     # Original data from TCGA/Xena (no changes)
+│   ├── raw/                     # Original data from TCGA/Xena RAWWW
 │   ├── processed/               # Cleaned & merged data ready for modeling
 │   ├── metadata/                # Variable dictionaries, subtype labels, cohort lists
 │
@@ -40,7 +40,7 @@ breast-cancer-ai-misclassification/
 ├── scripts/
 │   ├── run_model.py             # CLI script to run model pipeline
 │   ├── run_validation.py        # Script for cross-validation / bootstrap
-│   ├── utils.py                 # Helper functions (e.g., metrics, plotting)
+│   ├── utils.py                 # Helper functions 
 │
 ├── results/
 │   ├── figures/                 # Confusion matrices, SHAP plots, histograms
@@ -50,9 +50,9 @@ breast-cancer-ai-misclassification/
 ├── reports/
 │   ├── capstone_summary.pdf     # Final written report
 │   ├── slides_deck.pptx         # Presentation slides
-│   ├── GCSRT_template.docx      # Formatted protocol/abstract (if needed)
+│   ├── GCSRT_template.docx      # Formatted protocol/abstract 
 │
-└── environment.yml              # Conda or pip environment file (reproducibility)
+└── environment.yml              # pip environment file 
 
 
 
