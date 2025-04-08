@@ -1,5 +1,7 @@
 # breast-cancer-ai-misclassification-
+
 To investigate whether (AI) models used to classify molecular subtypes of breast cancer based on genomic expression data rely on shortcut features rather than true biological signals. It further explores which patient subgroups are most at risk of misclassification — particularly in hormone-sensitive tumors — using the TCGA-BRCA dataset.
+
 # 🔬 Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping
 
 This project investigates whether artificial intelligence (AI) models used to classify molecular subtypes of breast cancer based on genomic expression data rely on shortcut features (e.g., age, tumor size, batch ID) rather than true biological signals. It further explores which patient subgroups are most at risk of misclassification — particularly in hormone-sensitive tumors — using the TCGA-BRCA dataset.
@@ -51,3 +53,11 @@ breast-cancer-ai-misclassification/
 │   ├── GCSRT_template.docx      # Formatted protocol/abstract (if needed)
 │
 └── environment.yml              # Conda or pip environment file (reproducibility)
+
+
+
+
+
+
+
+
