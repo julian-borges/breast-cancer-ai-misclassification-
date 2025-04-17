@@ -43,8 +43,11 @@ This repository contains code and notebooks for exploring **hidden biases and sh
 - Uses XGBoost + SHAP to visualize feature reliance
 - Validates pseudo-SHAP (Stata) vs real SHAP (Python)
 
+
 ## Author
 Julian Borges, M.D. — Harvard Medical School GCSRT 2025  
 Capstone Project: *"Hidden Biases in AI-Powered Genomic Subtyping of Breast Cancer"*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15237131.svg)](https://doi.org/10.5281/zenodo.15237131)
+
 ---
 
