@@ -17,44 +17,6 @@ This project investigates whether artificial intelligence (AI) models used to cl
 
 ---
 
-## 🗂️ Repository Structure
-
-breast-cancer-ai-misclassification/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── data/
-│   ├── raw/                     # Original data from TCGA/Xena RAWWW
-│   ├── processed/               # Cleaned & merged data ready for modeling
-│   ├── metadata/                # Variable dictionaries, subtype labels, cohort lists
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb   # Data cleaning and merging script
-│   ├── 02_eda.ipynb             # Exploratory data analysis
-│   ├── 03_model_training.ipynb  # Model fitting and evaluation
-│   ├── 04_shap_analysis.ipynb   # SHAP or feature attribution workflow
-│   ├── 05_subgroup_analysis.ipynb # Stratified misclassification analysis
-│
-├── scripts/
-│   ├── run_model.py             # CLI script to run model pipeline
-│   ├── run_validation.py        # Script for cross-validation / bootstrap
-│   ├── utils.py                 # Helper functions 
-│
-├── results/
-│   ├── figures/                 # Confusion matrices, SHAP plots, histograms
-│   ├── tables/                  # Model performance, FN/FP breakdowns
-│   ├── outputs/                 # Exported predictions or risk scores
-│
-├── reports/
-│   ├── capstone_summary.pdf     # Final written report
-│   ├── slides_deck.pptx         # Presentation slides
-│   ├── GCSRT_template.docx      # Formatted protocol/abstract 
-│
-└── environment.yml              # pip environment file 
-
-
 
 
 
