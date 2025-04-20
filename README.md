@@ -1,9 +1,9 @@
 
-Author: Julian Borges, MD
-Harvard Medical School (HMS)
+Harvard Medical School (HMS) Post Graduate Medical Eduacation (PGME)
 Global Clinical Scholars Research Training Program (GCSRT) 2025 Cohort
+Author: Julian Borges, MD
 
-"Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping"
+Capstone Project "Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping"
 
 This project investigates whether artificial intelligence (AI) models used to classify molecular subtypes of breast cancer based on genomic expression data rely on shortcut features (e.g., age, tumor size, batch ID) rather than true biological signals. It further explores which patient subgroups are most at risk of misclassification — particularly in hormone-sensitive tumors — using the TCGA-BRCA dataset.
 
