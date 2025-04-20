@@ -12,8 +12,11 @@ This project investigates whether artificial intelligence (AI) models used to cl
 # Project Objectives
 
 1.Train and validate machine learning models to classify breast cancer molecular subtypes using gene expression data.
+
 2.Apply feature attribution techniques (e.g., SHAP) to audit the model's reliance on non-genomic features.
+
 3.Analyze misclassification patterns across clinical and genomic subgroups.
+
 4.Propose a framework to detect shortcut learning and flag high-risk predictions before they impact clinical care.
 
 # PAM50 Subtype Prediction — SHAP Explainability (Whats included)
