@@ -19,21 +19,14 @@ This project investigates whether artificial intelligence (AI) models used to cl
 This repository contains code and notebooks for exploring **hidden biases and shortcut learning** in AI models that classify **breast cancer subtypes (PAM50)** using clinical features.
 
 ## Contents:
-- `PAM50_SHAP_Explainability_Notebook.ipynb` — Jupyter version (local run)
 - `PAM50_SHAP_Colab_Notebook.ipynb` — Google Colab version (upload and go)
 - `requirements.txt` — Python package dependencies
 
 ## Dataset:
-> File: `capstone_step_6_model_data_for_shap_export.csv`  
-> **Upload manually** into `/data/` or during Colab run.
+> File: `AI-BIAS cleaned_TCGA_PAM50_model_dataset.csv`  
+> **Upload manually** into Colab run.
 
-## How to Run (2 Options):
-### Local (Jupyter)
-1. `conda create -n pam50_env python=3.12`
-2. `pip install -r requirements.txt`
-3. Launch Jupyter and run the notebook
-
-### Google Colab
+## How to Run:
 1. Open the Colab notebook
 2. Upload your CSV when prompted
 
@@ -46,7 +39,7 @@ This repository contains code and notebooks for exploring **hidden biases and sh
 
 ## Author
 Julian Borges, M.D. — Harvard Medical School GCSRT 2025  
-Capstone Project: *"Hidden Biases in AI-Powered Genomic Subtyping of Breast Cancer"*
+Capstone Project: *"Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping"*
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15237131.svg)](https://doi.org/10.5281/zenodo.15237131)
 
 ---
