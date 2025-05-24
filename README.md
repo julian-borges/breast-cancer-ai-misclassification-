@@ -1,9 +1,7 @@
 
 Harvard Medical School (HMS) Post Graduate Medical Eduacation (PGME)
-
 Global Clinical Scholars Research Training Program (GCSRT) 2025 Cohort
-
-Author: Julian Borges, MD
+Author: Julian Borges, MD, MS
 
 Capstone Project "Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping"
 
@@ -33,7 +31,7 @@ This repository contains code and notebooks for exploring **hidden biases and sh
 
 ## How to Run:
 1. Open the Colab notebook
-2. Upload your CSV when prompted
+2. Upload provided CSV when prompted (Ask)
 
 ## Summary:
 ###This pipeline:
