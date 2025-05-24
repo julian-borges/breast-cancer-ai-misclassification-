@@ -5,7 +5,8 @@ Author: Julian Borges, MD, MS
 
 Capstone Project "Auditing Shortcut Learning and Misclassification in AI-Based Breast Cancer Genomic Subtyping"
 
-This project investigates whether artificial intelligence (AI) models used to classify molecular subtypes of breast cancer based on genomic expression data rely on shortcut features (e.g., age, tumor size, batch ID) rather than true biological signals. It further explores which patient subgroups are most at risk of misclassification — particularly in hormone-sensitive tumors — using the TCGA-BRCA dataset.
+In an era where artificial intelligence is helping guide life-altering cancer treatment decisions, trust, transparency, and safety are no longer optional, they are essential.
+By auditing shortcut learning and identifying which patients are most at risk of AI misclassification, this capstone introduces a novel safety layer for genomic AI — one that protects the integrity of medical decision-making and prioritizes the patient at the center of every prediction.This project investigates whether artificial intelligence (AI) models used to classify molecular subtypes of breast cancer based on genomic expression data rely on shortcut features (e.g., age, tumor size, batch ID) rather than true biological signals. It further explores which patient subgroups are most at risk of misclassification — particularly in hormone-sensitive tumors — using the TCGA-BRCA dataset. This project addresses an urgent blind spot/gap in the deployment of AI in breast cancer genomics: the risk that these models may be learning the wrong signals and silently misclassifying patients.
 
 # Project Objectives
 
